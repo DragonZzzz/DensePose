@@ -1,3 +1,4 @@
+scikit-build
 numpy>=1.13
 pyyaml>=3.12
 matplotlib
